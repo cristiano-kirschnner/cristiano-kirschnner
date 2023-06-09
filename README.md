@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everyone. 👋
 
+Future Develop Jr. Technologist in systems analysis and development. I currently work as an IT Analyst. I am in the process of a career transition.
 <!--
 **cristiano-kirschnner/cristiano-kirschnner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
