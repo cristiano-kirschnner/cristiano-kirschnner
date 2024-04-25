@@ -1,6 +1,6 @@
 ### Hi everyone. 👋
 
-Future Develop Jr. Technologist in systems analysis and development. I currently work as an IT Analyst. I am in the process of a career transition.
+Future DevOps Jr. Technologist in systems analysis and development. I currently work as an IT Analyst. I am in the process of a career transition.
 
 
 <div style="display: inline_block"><br>
